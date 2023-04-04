@@ -1,0 +1,9 @@
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\bin\Debug\socket.exe.config
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\bin\Debug\socket.exe
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\bin\Debug\socket.pdb
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\obj\Debug\socket.Form1.resources
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\obj\Debug\socket.Properties.Resources.resources
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\obj\Debug\socket.csproj.GenerateResource.Cache
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\obj\Debug\socket.exe
+C:\Users\Queen\Desktop\MySpace\WORKING\Updater\socket\socket\socket\obj\Debug\socket.pdb
